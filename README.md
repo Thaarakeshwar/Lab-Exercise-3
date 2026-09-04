@@ -1,6 +1,7 @@
 # Lab-Exercise-3
 
 Aim:
+
 To design a simple and user-friendly e-commerce mobile application interface using Canva that allows users to search for products, browse different categories, view offers, and purchase items easily.
 
 Algorithm:
